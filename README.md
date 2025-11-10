@@ -73,8 +73,9 @@ pip install pandas rapidfuzz spacy editdistance jiwer
    python 02_filter_out_medical_terms.py
    ...
    python 10_summary_stats.py
-(Due to data privacy agreements, original Dutch healthcare transcripts are not included.)
 ---
+*(Due to data privacy agreements, original Dutch healthcare transcripts are not included.)*
+
 
 ## 📚 Resources
 
@@ -83,5 +84,4 @@ pip install pandas rapidfuzz spacy editdistance jiwer
 📰 Medium Article Summary: [https://medium.com/@s.sun.19/closed-vs-open-vocabulary-asr-in-healthcare-what-works-best-for-dutch-healthcare-speech-c862131d04db]
 
 ## 🪶 License
-This repository is shared under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for more details.
