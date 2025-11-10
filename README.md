@@ -42,12 +42,21 @@ Medium
 
 ---
 
-## 🧠 Technologies Used  
-- **Languages:** Python, Matlab, Praat  
-- **Libraries:** NumPy, Pandas, Librosa, SpaCy, PyTorch, RapidFuzz  
-- **Other tools:** LaTeX, Matplotlib, Seaborn  
+## 🧩 Requirements
 
----
+Please install the following Python packages before running the scripts:
+
+- `pandas`  
+- `rapidfuzz`  
+- `spacy`  
+- `editdistance`  
+- `jiwer`  
+
+You can install them using pip:
+
+```bash
+pip install pandas rapidfuzz spacy editdistance jiwer
+```
 
 ## 🚀 Quick Start  
 
@@ -65,7 +74,7 @@ Medium
    ...
    python 10_summary_stats.py
 (Due to data privacy agreements, original Dutch healthcare transcripts are not included.)
-
+---
 
 ## 📚 Resources
 
