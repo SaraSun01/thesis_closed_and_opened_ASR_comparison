@@ -18,7 +18,6 @@ Medium
 - 🩺 **The closed-vocabulary system** (Kaldi TDNN) shows higher precision and lower Medical-WER for standardized clinical terminology. 
 Medium
 - 💬 **The open-vocabulary system** (K2 RNN-T) performs better in recall and shows lower Medical-CER on variable or emergent entities (e.g., brand names, informal speech). 
-Medium
 - 📊 The results suggest that a hybrid approach, leveraging closed-vocabulary reliability for known terms and open-vocabulary flexibility for new/unseen terms, may lead to more robust ASR in healthcare contexts
 
 *(See full thesis or Medium summary below for detailed results and visualizations.)*
